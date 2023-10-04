@@ -53,6 +53,7 @@ toml==0.10.2
 toolz==0.12.0
 https://download.pytorch.org/whl/cpu/torch-2.0.1%2Bcpu-cp310-cp310-linux_x86_64.whl
 https://download.pytorch.org/whl/cpu/torchvision-0.15.2%2Bcpu-cp310-cp310-linux_x86_64.whl
+plotly==5.17.0
 tornado==6.3.3
 tqdm==4.66.1
 typing_extensions==4.8.0
